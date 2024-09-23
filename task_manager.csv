@@ -1,0 +1,56 @@
+Defect ID,Title,Description,POC,Status,Priority,Severity,Date Created,Expected Time Required,Tags/Labels,Environment,Attachments,Comments
+ID5565,Planning Meeting,Maintain,Business Analyst,Created,Low,Very Critical,2024-08-23,quarterly,Release 24.3,Prod,WF Task Note,Develop
+ID1972,Analytics: Regression Test,Maintain,Analyst,Created,Very High,Minor,2024-08-25,monthly,Release 24.4,Devl,Share Point,Maintain
+ID5529,Analytics: Test Plan,Maintain,Business Analyst,In Progress,High,Very Critical,2024-08-25,few days,Release 24.5,UAT,Share Point,Maintain
+ID5367,AWS Tasks,Maintain,Analyst,Hold,High,Very Critical,2024-08-26,few days,Release 24.5,UAT,Share Point,Update
+ID7081,Workflow: Regression Test,Update,Analyst,Hold,High,Major,2024-08-26,few days,Release 24.4,Devl,Analytics Task Note,Update
+ID9916,Analytics: Test Plan,Maintain,Tester,In Progress,High,Very Critical,2024-08-27,few days,Release 24.3,Devl,Analytics Task Note,Maintain
+ID7011,Analytics: Regression Test,Update,Analyst,Hold,High,Critical,2024-08-28,sprint,Release 24.5,Devl,Share Point,Maintain
+ID8740,Workflow: Test Plan,Develop,Tester,Created,Low,Major,2024-08-28,weak,Release 24.4,UAT,WF Task Note,Maintain
+ID9203,Analytics: Shakeout Test,Develop,Business Analyst,Hold,High,Very Critical,2024-08-29,quarterly,Release 24.5,UAT,Analytics Task Note,Develop
+ID6696,Workflow: Shakeout Test,Maintain,Tester,In Progress,Low,Critical,2024-08-31,yearly,Release 24.3,UAT,WF Task Note,Develop
+ID5314,Analytics: Smoke Test,Develop,Product owner,Created,Medium,Minor,2024-09-01,monthly,Release 24.3,Devl,WF Task Note,Develop
+ID8781,AWS Tasks,Maintain,Dev,Hold,Low,Major,2024-09-02,quarterly,Release 24.5,Devl,WF Task Note,Maintain
+ID2039,Training,Update,Product owner,Hold,Low,Very Critical,2024-09-02,monthly,Release 24.5,Prod,Analytics Task Note,Update
+ID5738,Workflow: Smoke Test,Develop,Tester,Hold,High,Minor,2024-09-03,weak,Release 24.3,Devl,Analytics Task Note,Update
+ID9111,Workflow: Smoke Test,Maintain,Business Analyst,Hold,High,Major,2024-09-03,yearly,Release 24.4,Prod,Analytics Task Note,Maintain
+ID9969,Workflow: Test Plan,Develop,Tester,In Progress,Very High,Very Critical,2024-09-04,weak,Release 24.5,UAT,Share Point,Develop
+ID1516,Analytics: Shakeout Test,Maintain,Product owner,Finished,Low,Minor,2024-09-05,sprint,Release 24.5,Devl,Analytics Task Note,Update
+ID1128,Workflow: Test Plan,Update,Dev,In Progress,Low,Minor,2024-09-05,yearly,Release 24.4,Prod,WF Task Note,Update
+ID6675,Planning Meeting,Update,Product owner,Created,Very High,Critical,2024-09-05,monthly,Release 24.3,Prod,WF Task Note,Update
+ID3000,Analytics: Regression Test,Develop,Dev,In Progress,High,Major,2024-09-06,monthly,Release 24.3,Prod,Analytics Task Note,Update
+ID6813,Workflow: Test Plan,Update,Dev,Finished,Very High,Critical,2024-09-06,quarterly,Release 24.4,Devl,Analytics Task Note,Maintain
+ID9372,Analytics: Test Plan,Maintain,Analyst,Finished,Medium,Critical,2024-09-06,quarterly,Release 24.4,UAT,Share Point,Develop
+ID3325,AWS Tasks,Develop,Analyst,Created,Medium,Critical,2024-09-06,few days,Release 24.5,UAT,Analytics Task Note,Maintain
+ID8583,AWS Tasks,Update,Tester,Hold,Very High,Minor,2024-09-06,sprint,Release 24.4,Devl,WF Task Note,Develop
+ID4648,Workflow: Smoke Test,Maintain,Dev,In Progress,Low,Very Critical,2024-09-06,sprint,Release 24.4,Devl,Share Point,Develop
+ID5037,Analytics: Regression Test,Maintain,Product owner,Created,Very High,Minor,2024-09-07,weak,Release 24.3,Prod,Share Point,Maintain
+ID9194,Analytics: Smoke Test,Develop,Analyst,In Progress,High,Minor,2024-09-07,few days,Release 24.4,Prod,Share Point,Maintain
+ID1648,Workflow: Shakeout Test,Maintain,Dev,In Progress,Low,Very Critical,2024-09-07,weak,Release 24.3,UAT,WF Task Note,Develop
+ID4252,Analytics: Shakeout Test,Maintain,Product owner,Hold,Medium,Very Critical,2024-09-07,sprint,Release 24.3,Prod,Share Point,Develop
+ID6039,Workflow: Shakeout Test,Maintain,Analyst,In Progress,Medium,Critical,2024-09-07,quarterly,Release 24.3,Devl,Analytics Task Note,Develop
+ID8959,Analytics: Smoke Test,Update,Product owner,Hold,High,Major,2024-09-07,yearly,Release 24.4,Prod,Analytics Task Note,Maintain
+ID1919,Analytics: Regression Test,Develop,Tester,In Progress,High,Critical,2024-09-09,monthly,Release 24.4,Prod,Share Point,Update
+ID9771,Workflow: Regression Test,Maintain,Tester,In Progress,Medium,Very Critical,2024-09-09,weak,Release 24.4,UAT,Share Point,Update
+ID7280,AWS Tasks,Develop,Business Analyst,Finished,High,Critical,2024-09-09,yearly,Release 24.5,Devl,WF Task Note,Develop
+ID3699,Workflow: Shakeout Test,Update,Product owner,In Progress,Very High,Major,2024-09-11,sprint,Release 24.4,Devl,Analytics Task Note,Update
+ID3383,Workflow: Regression Test,Develop,Tester,Created,High,Very Critical,2024-09-11,sprint,Release 24.3,UAT,WF Task Note,Update
+ID4898,AWS Tasks,Maintain,Product owner,In Progress,Low,Critical,2024-09-11,monthly,Release 24.5,Devl,Analytics Task Note,Develop
+ID2768,Workflow: Regression Test,Update,Dev,Hold,Low,Minor,2024-09-11,few days,Release 24.3,Devl,Analytics Task Note,Develop
+ID7286,Analytics: Shakeout Test,Update,Business Analyst,Created,Low,Critical,2024-09-12,quarterly,Release 24.4,Devl,Analytics Task Note,Update
+ID3865,Analytics: Regression Test,Develop,Product owner,In Progress,High,Critical,2024-09-13,yearly,Release 24.5,Prod,WF Task Note,Update
+ID1075,Workflow: Regression Test,Maintain,Product owner,Hold,High,Minor,2024-09-14,sprint,Release 24.3,UAT,Share Point,Update
+ID1243,Training,Develop,Product owner,Finished,High,Minor,2024-09-14,monthly,Release 24.5,Devl,WF Task Note,Develop
+ID2328,Analytics: Shakeout Test,Update,Product owner,Finished,High,Critical,2024-09-15,monthly,Release 24.5,UAT,WF Task Note,Maintain
+ID6345,Analytics: Smoke Test,Maintain,Tester,In Progress,High,Critical,2024-09-15,monthly,Release 24.5,UAT,Share Point,Develop
+ID5079,AWS Tasks,Update,Dev,In Progress,Medium,Very Critical,2024-09-15,quarterly,Release 24.5,Devl,Share Point,Maintain
+ID3436,Analytics: Smoke Test,Develop,Product owner,Created,High,Critical,2024-09-16,monthly,Release 24.5,Prod,Share Point,Develop
+ID5866,Workflow: Shakeout Test,Update,Business Analyst,Finished,Very High,Very Critical,2024-09-17,monthly,Release 24.4,Devl,Share Point,Maintain
+ID1542,Analytics: Shakeout Test,Update,Dev,In Progress,High,Critical,2024-09-17,monthly,Release 24.5,UAT,WF Task Note,Maintain
+ID3257,AWS Tasks,Update,Dev,Finished,Very High,Minor,2024-09-18,few days,Release 24.5,Prod,Share Point,Develop
+ID8245,Analytics: Test Plan,Maintain,Business Analyst,Finished,Medium,Critical,2024-09-19,quarterly,Release 24.5,Prod,Analytics Task Note,Develop
+ID4152,Analytics: Regression Test,Update,Analyst,Hold,High,Minor,2024-09-20,weak,Release 24.5,UAT,Analytics Task Note,Maintain
+ID5118,Workflow: Shakeout Test,Update,Dev,Hold,High,Critical,2024-09-20,few days,Release 24.3,Devl,WF Task Note,Develop
+ID5452,Workflow: Regression Test,Maintain,Product owner,Hold,Medium,Minor,2024-09-22,sprint,Release 24.3,UAT,Analytics Task Note,Maintain
+ID8054,Workflow: Regression Test,Update,Analyst,Finished,Low,Very Critical,2024-09-22,few days,Release 24.5,Devl,Analytics Task Note,Develop
+ID2827,Workflow: Test Plan,Update,Business Analyst,Finished,Very High,Minor,2024-09-22,yearly,Release 24.3,Devl,Share Point,Update
