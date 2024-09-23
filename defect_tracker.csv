@@ -1,0 +1,56 @@
+Defect ID,Title,Description,Reporter,Assignee,Status,Priority,Severity,Date Reported,Date Assigned,Expected Resolution Date,Actual Resolution Date,Tags/Labels,Environment,Steps to Reproduce,Attachments,Comments
+ID9427,Analytics: Econ Environment issue,Error,Lee,Dongyu,Fixed,Very High,Very Critical,2024-07-24,2024-09-19,2024-09-03,2024-08-26,Release 24.3,UAT,Share Point,Debugging Note,Error
+ID1188,Analytics: Bear Step issue,Performance,Lee,Dongyu,In Progress,Medium,Minor,2024-07-25,2024-09-17,2024-08-01,2024-08-09,Release 24.3,Devl,Debugging Note,Cloudwatch,Failed
+ID1415,Analytics: Model Override issue,Error,Lee,Dongyu,Created,Medium,Critical,2024-07-27,2024-09-13,2024-08-06,2024-08-23,Release 24.5,UAT,Debugging Note,Debugging Note,Error
+ID1366,Workflow: Attribution issue,Performance,Lee,Mahesh,Reopened,Low,Critical,2024-07-27,2024-08-20,2024-09-19,2024-08-14,Release 24.5,UAT,Cloudwatch,Debugging Note,Performance
+ID5771,Workflow: New Acquisition step issue,Error,Lee,Dongyu,Created,High,Very Critical,2024-07-28,2024-08-20,2024-09-20,2024-09-16,Release 24.4,Devl,Cloudwatch,Share Point,Error
+ID8248,Workflow: Attribution issue,Error,Lee,Carlin,Created,Medium,Minor,2024-07-28,2024-09-02,2024-08-19,2024-08-19,Release 24.4,Prod,Debugging Note,Share Point,Performance
+ID6240,Workflow: New Acquisition step issue,Failed,Lee,Carlin,In Progress,High,Major,2024-07-29,2024-08-16,2024-08-28,2024-08-01,Release 24.3,UAT,Share Point,Share Point,Error
+ID3058,Workflow: LAI step issue,Error,Lee,Dongyu,Created,Very High,Critical,2024-07-30,2024-08-21,2024-09-11,2024-08-20,Release 24.5,Prod,Share Point,Cloudwatch,Error
+ID3619,Workflow: RM step issue,Error,Lee,Dongyu,Reopened,Medium,Major,2024-07-30,2024-08-19,2024-08-17,2024-09-10,Release 24.3,UAT,Share Point,Share Point,Failed
+ID8180,Workflow: Bear step issue,Failed,Lee,Mahesh,Reopened,Very High,Major,2024-08-04,2024-08-16,2024-09-01,2024-08-21,Release 24.4,Devl,Cloudwatch,Share Point,Error
+ID6921,Workflow: CCFA Step issue,Performance,Lee,Mahesh,In Progress,Medium,Critical,2024-08-05,2024-08-24,2024-09-10,2024-08-18,Release 24.5,Prod,Debugging Note,Cloudwatch,Error
+ID4899,Workflow: CE step issue,Failed,Lee,Carlin,Fixed,Low,Critical,2024-08-06,2024-08-24,2024-08-13,2024-08-16,Release 24.3,Devl,Cloudwatch,Debugging Note,Performance
+ID1789,Analytics: Profile Upload issue,Performance,Lee,Carlin,Fixed,Medium,Critical,2024-08-07,2024-08-25,2024-07-30,2024-08-04,Release 24.5,Prod,Cloudwatch,Cloudwatch,Error
+ID3395,Analytics: Filter Upload issue,Failed,Lee,Mahesh,In Progress,Medium,Very Critical,2024-08-07,2024-09-17,2024-08-02,2024-08-16,Release 24.5,UAT,Share Point,Debugging Note,Performance
+ID8530,Workflow: RM step issue,Performance,Lee,Mahesh,In Progress,Very High,Minor,2024-08-08,2024-07-31,2024-08-11,2024-09-15,Release 24.4,UAT,Share Point,Cloudwatch,Error
+ID8295,Analytics: Model Override issue,Failed,Lee,Carlin,Reopened,Very High,Critical,2024-08-09,2024-08-05,2024-08-28,2024-08-03,Release 24.5,Prod,Share Point,Debugging Note,Error
+ID5020,Analytics: Bear Step issue,Error,Lee,Dongyu,Reopened,High,Minor,2024-08-10,2024-09-03,2024-08-01,2024-09-04,Release 24.5,Devl,Debugging Note,Debugging Note,Performance
+ID3204,Analytics: Filter Upload issue,Failed,Lee,Mahesh,Created,Low,Critical,2024-08-10,2024-09-14,2024-09-21,2024-09-09,Release 24.4,UAT,Cloudwatch,Cloudwatch,Failed
+ID3303,Analytics: Bear Step issue,Error,Lee,Dongyu,Created,Very High,Minor,2024-08-11,2024-09-18,2024-08-24,2024-07-24,Release 24.5,UAT,Debugging Note,Share Point,Error
+ID2288,Analytics: Loanlist Upload issue,Performance,Lee,Carlin,Reopened,Medium,Major,2024-08-13,2024-09-16,2024-08-29,2024-08-30,Release 24.5,Prod,Share Point,Cloudwatch,Failed
+ID5863,Analytics: Econ Environment issue,Failed,Lee,Carlin,Fixed,High,Critical,2024-08-13,2024-09-14,2024-08-24,2024-09-01,Release 24.3,UAT,Debugging Note,Share Point,Failed
+ID8146,Workflow: RM step issue,Failed,Lee,Mahesh,Reopened,Low,Very Critical,2024-08-14,2024-09-19,2024-09-22,2024-08-25,Release 24.3,Prod,Cloudwatch,Cloudwatch,Failed
+ID4678,Analytics: Filter Upload issue,Performance,Lee,Dongyu,In Progress,Medium,Major,2024-08-14,2024-09-02,2024-08-09,2024-09-16,Release 24.3,Devl,Cloudwatch,Share Point,Error
+ID2926,Workflow: LAI step issue,Performance,Lee,Dongyu,Reopened,High,Critical,2024-08-16,2024-08-15,2024-08-06,2024-08-04,Release 24.4,UAT,Cloudwatch,Share Point,Error
+ID5442,Workflow: Bear step issue,Performance,Lee,Dongyu,In Progress,Medium,Major,2024-08-18,2024-09-16,2024-08-03,2024-07-26,Release 24.5,UAT,Cloudwatch,Cloudwatch,Performance
+ID8065,Workflow: New Acquisition step issue,Performance,Lee,Mahesh,In Progress,High,Very Critical,2024-08-19,2024-09-22,2024-08-08,2024-07-30,Release 24.3,Prod,Debugging Note,Share Point,Failed
+ID5333,Analytics: Filter Upload issue,Error,Lee,Dongyu,In Progress,Low,Critical,2024-08-20,2024-09-10,2024-09-08,2024-08-05,Release 24.3,Devl,Cloudwatch,Debugging Note,Error
+ID4610,Analytics: Filter Upload issue,Failed,Lee,Carlin,Reopened,High,Minor,2024-08-21,2024-08-25,2024-08-11,2024-09-21,Release 24.4,Prod,Cloudwatch,Debugging Note,Failed
+ID8981,Workflow: Attribution issue,Error,Lee,Dongyu,In Progress,Medium,Major,2024-08-21,2024-08-09,2024-07-24,2024-08-30,Release 24.5,Devl,Cloudwatch,Debugging Note,Error
+ID1167,Workflow: LAI step issue,Error,Lee,Carlin,Fixed,Very High,Very Critical,2024-08-22,2024-07-27,2024-09-02,2024-08-21,Release 24.4,UAT,Share Point,Cloudwatch,Performance
+ID8426,Analytics: Bear Step issue,Performance,Lee,Carlin,Fixed,Medium,Major,2024-08-23,2024-08-17,2024-09-12,2024-09-09,Release 24.4,UAT,Debugging Note,Debugging Note,Error
+ID8304,Workflow: Bear step issue,Error,Lee,Mahesh,Created,Low,Major,2024-08-23,2024-09-06,2024-09-14,2024-09-02,Release 24.5,UAT,Debugging Note,Share Point,Failed
+ID8571,Analytics: Profile Upload issue,Performance,Lee,Carlin,Created,High,Critical,2024-08-24,2024-08-15,2024-09-21,2024-08-21,Release 24.4,UAT,Cloudwatch,Share Point,Error
+ID5672,Workflow: CCFA Step issue,Performance,Lee,Mahesh,Reopened,Medium,Critical,2024-08-28,2024-09-20,2024-09-20,2024-08-22,Release 24.4,Prod,Share Point,Debugging Note,Error
+ID1847,Workflow: CE step issue,Performance,Lee,Dongyu,Reopened,Low,Minor,2024-08-28,2024-09-16,2024-08-06,2024-09-05,Release 24.3,Devl,Cloudwatch,Cloudwatch,Failed
+ID1351,Workflow: Bear step issue,Performance,Lee,Carlin,Fixed,Low,Critical,2024-08-29,2024-08-19,2024-08-01,2024-08-12,Release 24.3,UAT,Share Point,Share Point,Error
+ID7137,Workflow: Attribution issue,Failed,Lee,Carlin,Reopened,Medium,Major,2024-08-30,2024-09-08,2024-08-05,2024-09-04,Release 24.3,Prod,Cloudwatch,Debugging Note,Performance
+ID7679,Analytics: Bear Step issue,Performance,Lee,Mahesh,In Progress,High,Critical,2024-08-30,2024-08-24,2024-07-31,2024-09-01,Release 24.3,UAT,Debugging Note,Cloudwatch,Performance
+ID9506,Analytics: Loanlist Upload issue,Failed,Lee,Dongyu,Reopened,High,Very Critical,2024-08-31,2024-09-22,2024-08-13,2024-08-13,Release 24.3,Devl,Share Point,Share Point,Failed
+ID3975,Workflow: RM step issue,Performance,Lee,Carlin,Reopened,Medium,Critical,2024-08-31,2024-09-12,2024-07-31,2024-08-10,Release 24.5,UAT,Cloudwatch,Share Point,Performance
+ID4928,Workflow: New Acquisition step issue,Failed,Lee,Dongyu,Created,Low,Major,2024-09-01,2024-08-14,2024-09-19,2024-09-17,Release 24.5,Prod,Debugging Note,Debugging Note,Error
+ID8172,Analytics: Select from DB issue,Performance,Lee,Carlin,In Progress,High,Critical,2024-09-02,2024-09-14,2024-08-13,2024-09-14,Release 24.3,Devl,Cloudwatch,Cloudwatch,Performance
+ID4896,Workflow: RM step issue,Failed,Lee,Dongyu,Fixed,Very High,Major,2024-09-02,2024-07-28,2024-08-31,2024-09-18,Release 24.3,Prod,Cloudwatch,Cloudwatch,Failed
+ID6868,Analytics: Model Override issue,Performance,Lee,Carlin,In Progress,Very High,Very Critical,2024-09-04,2024-08-24,2024-09-04,2024-08-13,Release 24.5,Devl,Cloudwatch,Cloudwatch,Performance
+ID7327,Analytics: Model Override issue,Performance,Lee,Carlin,Fixed,High,Very Critical,2024-09-07,2024-08-14,2024-09-10,2024-09-04,Release 24.4,Devl,Share Point,Debugging Note,Error
+ID8626,Analytics: Loanlistoverride Upload issue,Performance,Lee,Mahesh,Created,Low,Critical,2024-09-08,2024-09-10,2024-07-29,2024-08-24,Release 24.3,Devl,Debugging Note,Share Point,Error
+ID1814,Workflow: CE step issue,Error,Lee,Carlin,In Progress,Very High,Very Critical,2024-09-11,2024-09-10,2024-07-28,2024-09-13,Release 24.5,UAT,Share Point,Cloudwatch,Failed
+ID5249,Workflow: RM step issue,Error,Lee,Mahesh,Created,Very High,Critical,2024-09-11,2024-07-23,2024-08-08,2024-09-16,Release 24.4,Prod,Cloudwatch,Debugging Note,Performance
+ID7137,Workflow: Bear step issue,Failed,Lee,Mahesh,Created,Low,Minor,2024-09-13,2024-09-05,2024-09-21,2024-08-05,Release 24.3,UAT,Share Point,Share Point,Performance
+ID4685,Workflow: Bear step issue,Error,Lee,Mahesh,Reopened,High,Minor,2024-09-14,2024-08-22,2024-08-13,2024-08-13,Release 24.3,Devl,Cloudwatch,Share Point,Failed
+ID7075,Analytics: Select from DB issue,Failed,Lee,Carlin,Created,Very High,Critical,2024-09-14,2024-08-05,2024-07-24,2024-09-14,Release 24.5,Devl,Share Point,Cloudwatch,Failed
+ID7627,Analytics: Bear Step issue,Failed,Lee,Dongyu,In Progress,Low,Major,2024-09-14,2024-08-27,2024-08-25,2024-09-11,Release 24.4,UAT,Cloudwatch,Share Point,Performance
+ID5240,Analytics: Filter Upload issue,Error,Lee,Mahesh,Created,Low,Minor,2024-09-15,2024-09-02,2024-08-18,2024-07-24,Release 24.3,Devl,Cloudwatch,Share Point,Error
+ID3335,Workflow: RM step issue,Performance,Lee,Carlin,Fixed,High,Critical,2024-09-18,2024-09-07,2024-07-29,2024-08-27,Release 24.4,UAT,Share Point,Share Point,Error
+ID1733,Workflow: New Acquisition step issue,Performance,Lee,Dongyu,Created,High,Critical,2024-09-20,2024-08-26,2024-09-21,2024-09-15,Release 24.4,Prod,Debugging Note,Debugging Note,Performance
